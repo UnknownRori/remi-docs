@@ -1,0 +1,9 @@
+[book]
+title = "The Remi Programming Language"
+description = "Remi is a esoteric programming language that inspired by the charismatic vampire of the Scarlet devil Remilia Scarlet"
+authors = ["UnknownRori"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/UnknownRori/remi-lang/"
