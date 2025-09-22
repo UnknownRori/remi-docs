@@ -7,7 +7,7 @@
     - [Installation](./getting-started/installation.md)
     - [Hello World](./getting-started/hello-world.md)
 - [Common Programming Concept](./common-programming-concept/README.md)
-    - [Variable and Mutability](./getting-started/variable-and-mutability.md)
+    - [Variable and Mutability](./common-programming-concept/variable-and-mutability.md)
     - [Data Types](./common-programming-concept/data-types.md)
     - [Control Flow](./common-programming-concept/control-flow.md)
     - [Function](./common-programming-concept/function.md)
